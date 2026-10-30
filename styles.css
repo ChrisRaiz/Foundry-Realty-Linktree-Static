@@ -178,7 +178,7 @@ input {
   }
 
   .container {
-    box-shadow: 0 8px 32px rgb(0 0 0 / 0.15);
+    box-shadow: 0 8px 32px rgb(0 0 0 / 0.35);
     overflow: hidden;
     max-width: 450px;
     min-height: min(calc(100dvh - 4rem), 860px);

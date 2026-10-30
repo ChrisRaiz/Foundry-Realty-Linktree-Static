@@ -1,14 +1,6 @@
 # Foundry Realty Linktree
 
-The link page for Foundry Realty Group: plain HTML, CSS and JavaScript, with no build step, hosted on GitHub Pages.
-
-## Publishing
-
-1. On GitHub, open this repo's **Settings**, then **Pages**.
-2. Under **Build and deployment**, set **Source** to **Deploy from a branch**.
-3. Choose the `main` branch and the `/ (root)` folder, then select **Save**.
-
-The site goes live a minute or two later, and GitHub shows the address on the same page. After that, any change saved to `main` publishes automatically.
+The linktree page for Foundry Realty Group: plain HTML, CSS and JavaScript, with no build step, hosted on GitHub Pages.
 
 ## Editing the buttons
 

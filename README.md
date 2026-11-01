@@ -31,3 +31,7 @@ The video ID is the 11 characters in the YouTube address, after `watch?v=` or `s
 ## Icons
 
 Icons are in `assets/icons`: `calendar`, `contact` (a house), `dollar`, `facebook`, `globe`, `instagram`, `link`, `mail`, `map-pin`, `phone`, `star`, `tiktok`, `video` and `youtube`. Change the file name in a button's `src` to use a different one.
+
+## Trying it locally
+
+Open `index.html` in a browser, or run `npx serve` for a local server.

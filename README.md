@@ -1,11 +1,24 @@
-# Foundry Realty Linktree
+<p align="center">
+  <img src="assets/readme-logo.jpg" alt="Foundry Realty Group logo" width="360">
+</p>
 
-A linktree-style landing page for Foundry Realty Group that collects the group's forms, social profiles, and introduction video in one place, built with plain HTML, CSS, and JavaScript and hosted on GitHub Pages.
+<h1 align="center">Foundry Realty Linktree</h1>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?logo=githubpages&logoColor=white)
+<p align="center">
+  A linktree-style landing page for <b>Foundry Realty Group</b> that collects the group's forms, social profiles, and introduction video in one place.<br>
+  Built with plain HTML, CSS, and JavaScript and hosted on GitHub Pages.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?logo=githubpages&logoColor=white" alt="GitHub Pages">
+</p>
+
+<p align="center">
+  🌐 <a href="https://chrisraiz.github.io/Foundry-Realty-Linktree-Static/"><b>View the Page</b></a>: hosted on GitHub Pages.
+</p>
 
 ---
 
@@ -89,6 +102,7 @@ Icons are in `assets/icons`. Change the file name in a button's `src` to use a d
 ├── script.js           # YouTube video popup
 └── assets/
     ├── logo.svg
+    ├── readme-logo.jpg # Logo shown at the top of this README
     ├── favicon.svg
     └── icons/          # Button icons
 ```
